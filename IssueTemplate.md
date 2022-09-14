@@ -1,7 +1,8 @@
 # Game Report/Question
+Bug/Critical Bug/Question
 
 # Short Name of the Bug
-
+eg. Character is falling through the ground
 
 # System Information
 GPU: GTX1060 6G
