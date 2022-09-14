@@ -6,7 +6,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ############################################################
 ## [Debug Release Cycle]
 
-#### [0.5.0] - 2022-08-14 ####
+
+#### [1.50.6078] - 2022-09-04 ####
 ### Added
 -	WeaponTrail FX added
 -	Blood FX added
