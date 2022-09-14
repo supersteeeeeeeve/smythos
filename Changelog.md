@@ -7,6 +7,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Debug Release Cycle]
 
 
+#### [1.50.6100] - 2022-09-15 ####
+### Added
+-	Experimental Starting Zone added
+
+### Fixed
+-	UI components fixed
+-	Falling through the ground on using Mount fixed
+-	Underwater Corals fixed
+-	Fog Renderqueue fixed
+
+### Changed
+-	adjusted LOD Bias for better performance
+
 #### [1.50.6078] - 2022-09-04 ####
 ### Added
 -	WeaponTrail FX added
