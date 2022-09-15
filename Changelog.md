@@ -11,6 +11,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 -	Weapon sheathing added
 -	LoadingScreen with dynamic tips 
 	and backgrounds depending on maps added
+-	Blocking added
+-	Emotes added
+-	Fire/Snow/Rain GPU simulated VFX in environment added
+
+### Changed
+-	"Run" Animationspeed when weapons are sheated changed
+-	Item icons changed
 
 #### [1.50.6100] - 2022-09-15 ####
 ### Added
