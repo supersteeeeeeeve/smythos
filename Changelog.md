@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ############################################################
 ## [Debug Release Cycle]
 
+#### [1.50.6103] - TBA ####
+### Added
+-	Weapon sheathing added
+-	LoadingScreen with dynamic tips 
+	and backgrounds depending on maps added
 
 #### [1.50.6100] - 2022-09-15 ####
 ### Added
