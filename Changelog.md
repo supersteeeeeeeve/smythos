@@ -14,11 +14,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 -	Blocking added
 -	Emotes added
 -	Fire/Snow/Rain GPU simulated VFX in environment added
+-	Sorcerer Class added
 
 ### Changed
 -	"Run" Animationspeed when weapons are sheated changed
 -	Item icons changed
 -	WaterSystem changed and now using GPU instead of CPU
+
+### Removed
+-	Development console stripped from builds
 
 #### [1.50.6100] - 2022-09-15 ####
 ### Added
