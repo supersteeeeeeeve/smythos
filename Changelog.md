@@ -15,6 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 -	Emotes added
 -	Fire/Snow/Rain GPU simulated VFX in environment added
 -	Sorcerer Class added
+-	SSGI Render Feature on high quality level added
 
 ### Changed
 -	"Run" Animationspeed when weapons are sheated changed
