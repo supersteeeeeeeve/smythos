@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ############################################################
 ## [Debug Release Cycle]
 
-#### [1.50.6103] - TBA ####
+#### [1.50.6103] - 2022-10-16 ####
 ### Added
 -	Weapon sheathing added
 -	LoadingScreen with dynamic tips 
