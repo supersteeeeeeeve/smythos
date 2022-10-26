@@ -6,9 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ############################################################
 ## [Debug Release Cycle]
 
-#### [1.50.6104] - TBA 2022-11-?? ####
+#### [1.50.6130] - TBA 2022-11-?? ####
 ### Added
--
+-	Snow covering on objects/terrain added
+-	Snow VFX added
 
 ### Changed
 -
