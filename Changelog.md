@@ -12,13 +12,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 -	Snow VFX added
 
 ### Changed
--
+-	UI Placement
+-	UI Sounds
 
 ### Fixed
 -	typo in Character Name fixed
 
 ### Removed
--	
+-	GPU based VFX Tests removed
 
 #### [1.50.6103] - 2022-10-16 ####
 ### Added
