@@ -6,14 +6,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ############################################################
 ## [Debug Release Cycle]
 
-#### [1.50.6130] - TBA 2022-11-?? ####
+#### [1.50.6130] - TBA 2022-11-11 ####
 ### Added
 -	Snow covering on objects/terrain added
 -	Snow VFX added
+-	Initial Skills for all classes added*
+
+	(*There are still many things missing for Sorcerer and Fighter class*)
 
 ### Changed
--	UI Placement
--	UI Sounds
+-	UI Placement changed
+-	UI Sounds changed
+-	Main Menu completely changed
+-	VFX Weather particles fade out when entering interriors
 
 ### Fixed
 -	typo in Character Name fixed
