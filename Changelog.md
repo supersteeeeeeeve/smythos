@@ -6,8 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ############################################################
 ## [Debug Release Cycle]
 
-#### [1.50.6130] - TBA 2022-11-11 ####
+#### [1.50.6130] - 2022-11-12 ####
 ### Added
+-	Lan/P2P Networking enabled
 -	Snow covering on objects/terrain added
 -	Snow VFX added
 -	Initial Skills for all classes added*
