@@ -10,7 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 -
 
 ### Changed
--UI Textures changed to a more modern style
+-	UI Textures changed to a more modern style
 
 ### Fixed
 -
