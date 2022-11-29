@@ -7,16 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Debug Release Cycle]
 #### [1.50.6137] - TBA 2022-12-XX ####
 ### Added
--
+-	Vegetation Density control via Quality Level added
+-	New Zones added
 
 ### Changed
 -	UI Textures changed to a more modern style
 
 ### Fixed
--
+-	High memory allocation on VFX Effects fixed [Vulkan only]
 
 ### Removed
--
+-	Test Island removed
 
 #### [1.50.6130] - 2022-11-12 ####
 ### Added
