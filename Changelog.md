@@ -4,14 +4,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ############################################################
-## [Debug Release Cycle]
-#### [1.50.6137] - TBA 2022-12-XX ####
+## [Unstable Release Cycle]
+#### [1.50.7188] - 2023-01-07 ####
 ### Added
--	Vegetation Density control via Quality Level added
--	New Zones added
+-	Vegetation Density controlled via Quality Level added
+-	Hub/Spawn Area added
+-	First Level added
+-	Stand-based Hair for characters via. AMD TressFX added (see https://github.com/GPUOpen-Effects/TressFX)
 
 ### Changed
--	UI Textures changed to a more modern style
+-	UI Textures to a more modern style changed
+-	Volumetrics of Fog and Lighting changed
 
 ### Fixed
 -	High memory allocation on VFX Effects fixed [Vulkan only]
@@ -19,6 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Removed
 -	Test Island removed
 
+## [Debug Release Cycle]
 #### [1.50.6130] - 2022-11-12 ####
 ### Added
 -	Lan/P2P Networking enabled
