@@ -5,12 +5,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ############################################################
 ## [Unstable Release Cycle]
-#### [1.50.7188] - 2023-01-07 ####
+#### [1.50.7188] - 2023-01-09 ####
 ### Added
 -	Vegetation Density controlled via Quality Level added
 -	Hub/Spawn Area added
 -	First Level added
 -	Stand-based Hair for characters via. AMD TressFX added (see https://github.com/GPUOpen-Effects/TressFX)
+-	Dynamic Render Scaling via. AMD FidelityFX-FSR added (see https://github.com/GPUOpen-Effects/FidelityFX-FSR)
 
 ### Changed
 -	UI Textures to a more modern style changed
