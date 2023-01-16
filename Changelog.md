@@ -5,6 +5,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ############################################################
 ## [Unstable Release Cycle]
+#### [1.50.7197] - 2023-01-16 ####
+### Fixed
+-	Performance and stability fixed
+
 #### [1.50.7189] - 2023-01-12 ####
 ### Changed
 -	Hair Rendering optimized and changed
