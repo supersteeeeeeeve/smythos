@@ -5,6 +5,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ############################################################
 ## [Unstable Release Cycle]
+#### [1.50.7200] - TBA ####
+### Added
+-	Valkyrie class added
+### Fixed
+-	High memory allocations on DX11 fixed
+### Changed
+-	Point Lighting changed
+	*now it is much more performant even on a high point light count :)
+
 #### [1.50.7197] - 2023-01-16 ####
 ### Fixed
 -	Performance and stability fixed
@@ -21,15 +30,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 -	Vegetation Density controlled via Quality Level added
 -	Hub/Spawn Area added
 -	First Level added
--	Stand-based Hair for characters via. AMD TressFX added (see https://github.com/GPUOpen-Effects/TressFX)
--	Dynamic Render Scaling via. AMD FidelityFX-FSR added (see https://github.com/GPUOpen-Effects/FidelityFX-FSR)
+-	Stand-based Hair for characters via. AMD TressFX added
+	*(see https://github.com/GPUOpen-Effects/TressFX)
+-	Dynamic Render Scaling via. AMD FidelityFX-FSR added
+	*(see https://github.com/GPUOpen-Effects/FidelityFX-FSR)
 
 ### Changed
 -	UI Textures to a more modern style changed
 -	Volumetrics of Fog and Lighting changed
 
 ### Fixed
--	High memory allocation on VFX Effects fixed [Vulkan only]
+-	High memory allocation on VFX Effects fixed
+	*[Vulkan only]
 
 ### Removed
 -	Test Island removed
@@ -40,9 +52,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 -	Lan/P2P Networking enabled
 -	Snow covering on objects/terrain added
 -	Snow VFX added
--	Initial Skills for all classes added*
-
-	(*There are still many things missing for Sorcerer and Fighter class*)
+-	Initial Skills for all classes added
+	*There are still many things missing for Sorcerer and Fighter class
 
 ### Changed
 -	UI Placement changed
@@ -70,10 +81,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 -	"Run" Animationspeed when weapons are sheated changed
 -	Item icons changed
--	WaterSystem changed and now using GPU instead of CPU
+-	WaterSystem changed
 
 ### Removed
--	Development console stripped from builds
+-	Unity Development console stripped from builds
 
 #### [1.50.6100] - 2022-09-15 ####
 ### Added
