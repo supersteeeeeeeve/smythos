@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 -	High memory allocations on DX11 fixed
 ### Changed
+-	Cloth Simulation improved and changed
 -	Point Lighting changed
 	*now it is much more performant even on a high point light count :)
 
