@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 #### [1.50.7200] - TBA ####
 ### Added
 -	Valkyrie class added
+-	initial Russian and German translation added
 ### Fixed
 -	High memory allocations on DX11 fixed
 ### Changed
