@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 -	Valkyrie class added
 -	initial Russian and German translation added
-	![alt text](https://github.com/supersteeeeeeeve/smythos/blob/main/.github/ISSUE_TEMPLATE/Screenshot_20230218_222709crop.png))
+	![alt text](https://github.com/supersteeeeeeeve/smythos/blob/main/.github/ISSUE_TEMPLATE/Screenshot_20230218_222709crop.png)
 ### Fixed
 -	High memory allocations on DX11 fixed
 ### Changed
