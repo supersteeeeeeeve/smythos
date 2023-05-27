@@ -5,6 +5,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ############################################################
 ## [Unstable Release Cycle]
+#### [1.50.7260] - TBA ####
+### Added
+-	First Dungeons added
+-	Player Storage added
+-	Global Game Teleporter added
+
+### Fixed
+-	translations fixed
+### Changed
+-	Volumetric Fog quality and appearence changed
+-	AMD FSR strength changed
+
 #### [1.50.7200] - 2023-03-10 ####
 ### Added
 -	Valkyrie class added
