@@ -5,17 +5,20 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ############################################################
 ## [Unstable Release Cycle]
-#### [1.50.7260] - TBA ####
+#### [1.50.7260] - scheduled for 2023.07.25 ####
 ### Added
 -	First Dungeons added
 -	Player Storage added
 -	Global Game Teleporter added
-
+-	Instanced Test Area added
 ### Fixed
 -	translations fixed
 ### Changed
 -	Volumetric Fog quality and appearence changed
 -	AMD FSR strength changed
+-	Quality Settings does now apply without restarting the client
+### Removed
+-	TressFX Hair removed because its too expensive on various devices
 
 #### [1.50.7200] - 2023-03-10 ####
 ### Added
