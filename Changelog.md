@@ -5,11 +5,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ############################################################
 ## [Unstable Release Cycle]
-#### [1.50.7268] - TBA ####
+#### [1.50.7400] - TBA ####
 ### Added
 -	HLOD System for world objects added
-	```Massive Performance improvement!```
+-	```Android``` Support added
+-	Multi Plattform Account Creation via Lootlocker added
+-	Initial ```Controller``` support added
 ### Fixed
+-	Huge memory overhead at water reflections fixed
 ### Changed
 ### Removed
 
